@@ -1,201 +1,201 @@
-name,sex,evote,zip,education,citizenship,marital_status,party,age_group
-"el-Kaleel, Shujaa",Male,0,23-24xx,,Denmark,Never married,Green,31-45
-"Hamm, Miriah",Female,0,23-24xx,,Tunisia,Married/separated,Red,46-60
-"Perkins, Brandy",Female,0,23-24xx,,Denmark,Married/separated,Green,31-45
-"el-Saadeh, Haaroon",Male,1,23-24xx,,Denmark,Married/separated,Green,46-60
-"el-Shabazz, Abdul Haleem",Male,0,23-24xx,,Denmark,Divorced,Green,46-60
-"Jimenez, Shiloh",Female,0,23-24xx,,Denmark,Married/separated,Green,31-45
-"el-Moghaddam, Lubaaba",Female,0,23-24xx,Lower Education,Denmark,Married/separated,Green,46-60
-"Spencer, Rachel",Female,1,23-24xx,,Denmark,Married/separated,Invalid vote,31-45
-"Ross, Michael",Male,0,21-22xx,Mid Education,Denmark,Married/separated,Green,31-45
-"al-Maroun, Jasra",Female,0,23-24xx,Lower Education,Denmark,Never married,Green,31-45
-"Lee, Seiko",Female,0,21-22xx,Lower Education,Denmark,,Green,31-45
-"al-Dallal, Rashaa",Female,1,23-24xx,,Eritrea,Never married,Green,18-30
-"Wernsmann, Tristan",Male,0,23-24xx,,Denmark,Never married,Green,18-30
-"Rodriguez, Anna",Female,0,21-22xx,,Denmark,Widowed,Red,61+
-"Lopez, Angelica",Female,0,21-22xx,Mid Education,Denmark,,Green,61+
-"Israel, Rashaan",Male,0,23-24xx,,Denmark,Married/separated,Green,61+
-"Hoadley, Margaret",Female,0,23-24xx,,Denmark,Widowed,Red,61+
-"Lewis, Janae",Female,0,21-22xx,,Denmark,Never married,Green,18-30
-"Shongolo, Tyieshia",Female,1,23-24xx,,Denmark,Married/separated,Red,46-60
-"Carlo, Tylor",Male,0,21-22xx,,Denmark,Married/separated,Red,61+
-"Deluna, Alex",Male,1,21-22xx,Lower Education,Denmark,,Green,61+
-"Veasley, Autryana",Female,0,23-24xx,Lower Education,Denmark,Married/separated,Red,61+
-"el-Bahri, Sahl",Male,0,21-22xx,,Denmark,Never married,Green,31-45
-"Angel, Alex",Male,1,21-22xx,,Denmark,Married/separated,Green,61+
-"Campbell, Jordan",Male,1,21-22xx,,Denmark,Divorced,Red,46-60
-"Ross, Brandon",Male,1,21-22xx,Lower Education,Denmark,Never married,Green,18-30
-"al-Burki, Saahira",Female,0,23-24xx,Lower Education,Ukraine,Married/separated,Green,61+
-"Root, Arraun",Male,0,21-22xx,Lower Education,Bulgaria,Never married,Green,18-30
-"Lo, Sean",Male,1,21-22xx,,Denmark,Never married,Green,31-45
-"Matarazzo, Conner",Male,0,21-22xx,,Denmark,Married/separated,Green,61+
-"Worden, Jenna",Female,0,21-22xx,Lower Education,Denmark,Divorced,Green,46-60
-"Sonoda, Oksanna",Female,1,21-22xx,,Denmark,Divorced,Red,46-60
-"el-Hoda, Humaina",Female,0,21-22xx,,Denmark,Married/separated,Red,46-60
-"Cerda-Zarate, Alexis",Male,0,23-24xx,,Denmark,Married/separated,Green,46-60
-"Gonzalez-Herrera, Maira",Female,1,23-24xx,,Denmark,Never married,Red,31-45
-"Alay, Devonte",Male,0,23-24xx,,Denmark,Married/separated,Green,31-45
-"Kusy, Rachel",Female,0,23-24xx,,Denmark,Married/separated,Red,61+
-"Dechtman, Riley",Female,0,23-24xx,Lower Education,Denmark,Married/separated,Red,61+
-"Britton, Tyesha",Female,1,21-22xx,,Denmark,Married/separated,Green,31-45
-"al-Beshara, Haazim",Male,0,23-24xx,,Denmark,Never married,Green,46-60
-"Bigbey, Makayla",Female,0,23-24xx,,Denmark,Never married,Red,46-60
-"Lee, Anthony",Male,0,23-24xx,Lower Education,Denmark,Divorced,Green,46-60
-"Miller, Jodi",Female,1,23-24xx,Lower Education,Denmark,Married/separated,Green,61+
-"Benton, Erron",Male,0,23-24xx,,Denmark,Married/separated,Red,61+
-"Robinson, Maurice",Male,1,23-24xx,Lower Education,Denmark,Divorced,Green,46-60
-"al-Javed, Raadiya",Female,0,23-24xx,,Denmark,Married/separated,Red,46-60
-"Ortegon-Alferes, Michael",Male,1,23-24xx,Mid Education,Denmark,Divorced,Green,31-45
-"Street, Michelle",Female,0,21-22xx,,Denmark,Never married,Green,31-45
-"Wells, Cody",Male,0,23-24xx,Lower Education,Denmark,Never married,Green,61+
-"Aggrey Ofori, Javohn",Male,0,23-24xx,,Denmark,Married/separated,Red,46-60
-"Thornberry, Dietrich",Male,0,23-24xx,,Slovakia,Divorced,Green,46-60
-"Calzavara, Whitney",Female,0,21-22xx,Lower Education,Denmark,Married/separated,Green,46-60
-"Reynolds, Meghan",Female,0,21-22xx,,Germany,Married/separated,Red,46-60
-"Vance, Julia",Female,0,21-22xx,,Denmark,Never married,Green,18-30
-"Lechman, Jadayja",Female,0,21-22xx,,Denmark,Married/separated,Red,61+
-"Logar, Lance",Male,1,23-24xx,,Denmark,Divorced,Green,46-60
-"al-Husain, Shajee'a",Female,0,21-22xx,,Denmark,Divorced,Red,46-60
-"Eidem, Drew",Male,1,23-24xx,Mid Education,Denmark,Never married,Green,31-45
-"Matthew, Jean",Female,0,23-24xx,,Denmark,Married/separated,Red,61+
-"al-Amir, Ramla",Female,1,23-24xx,,Denmark,Divorced,Green,46-60
-"Kanaoka, Carly",Female,1,23-24xx,,Denmark,Never married,Red,31-45
-"Villafana, Tyler",Male,1,23-24xx,Lower Education,Denmark,Married/separated,Green,31-45
-"Tuano, Abhishek",Male,0,23-24xx,,Denmark,Married/separated,Green,61+
-"el-Syed, Manaal",Female,0,21-22xx,Lower Education,Denmark,Never married,Green,18-30
-"el-Yasin, Taalib",Male,1,21-22xx,Mid Education,Denmark,Never married,Green,31-45
-"al-Saad, Maimoona",Female,1,23-24xx,,Denmark,Married/separated,Green,31-45
-"Leng, Shawn",Male,1,23-24xx,,Denmark,Married/separated,Green,31-45
-"Sandoval, Maria",Female,1,21-22xx,,Denmark,Divorced,Red,46-60
-"Emerick, Natalie",Female,0,21-22xx,,Denmark,Married/separated,Green,18-30
-"el-Sayed, Mawzoona",Female,0,21-22xx,,Denmark,Widowed,Red,61+
-"Chislum, Tyahna",Female,0,23-24xx,Lower Education,Denmark,Married/separated,Red,61+
-"Fender, Chanel",Female,0,21-22xx,Lower Education,Denmark,Never married,Green,18-30
-"el-Ebrahim, Abdur Rasheed",Male,1,23-24xx,,Denmark,Married/separated,Red,46-60
-"Cox, Andrew",Male,1,23-24xx,,Denmark,Married/separated,Red,31-45
-"Cecil, Alysia",Female,0,23-24xx,,Denmark,Divorced,Red,61+
-"Hamel, Annamarie",Female,1,23-24xx,,Denmark,Never married,Green,31-45
-"al-Pirani, Najeema",Female,0,21-22xx,,Denmark,Never married,Green,46-60
-"Baird, Rebekah",Female,0,23-24xx,,Denmark,Divorced,Green,61+
-"Pichardo, Dulce Gilari",Female,0,21-22xx,,Denmark,Married/separated,Green,31-45
-"Martin Del Campo, Alfredo",Male,1,21-22xx,,Denmark,Never married,Green,31-45
-"Lor, Angad",Male,0,21-22xx,,Denmark,Married/separated,Red,61+
-"Lo, Leng Mi",Female,0,21-22xx,Lower Education,Denmark,Divorced,Green,61+
-"Williams, Shane",Male,0,23-24xx,Lower Education,Denmark,Married/separated,Green,31-45
-"Maes, Douglas",Male,0,23-24xx,,Germany,Never married,Green,31-45
-"al-Rahaim, Kifaaya",Female,0,23-24xx,,Denmark,Never married,Red,31-45
-"Hamlin, Jacob",Male,0,21-22xx,,Denmark,Divorced,Green,61+
-"Rivas, Bryson",Male,0,23-24xx,,Denmark,Married/separated,Red,61+
-"Abarca, Salina",Female,1,21-22xx,,Denmark,Never married,Invalid vote,46-60
-"Schonher, Elijah",Male,0,21-22xx,,Denmark,Married/separated,Red,61+
-"Abrams, Tah Dai",Female,1,23-24xx,Lower Education,Denmark,Married/separated,Red,46-60
-"Jurado, Mayra",Female,0,21-22xx,,Denmark,Widowed,Red,61+
-"Humphreys, Sherleen",Female,0,23-24xx,,USA,Divorced,Green,61+
-"Myong, Tracy",Female,1,23-24xx,,Denmark,Never married,Green,18-30
-"Lancaster, Dejon",Male,0,21-22xx,,Denmark,Never married,Red,46-60
-"al-Adel, Shamaail",Female,0,23-24xx,,Denmark,Married/separated,Green,61+
-"Than, Bani",Female,0,23-24xx,,Denmark,Never married,Red,46-60
-"Smith, Diamond",Female,0,21-22xx,Lower Education,Denmark,Married/separated,Green,46-60
-"Burton, Jessica",Female,1,23-24xx,Lower Education,Denmark,Married/separated,Red,46-60
-"el-Naim, Nizaam",Male,1,23-24xx,,Denmark,Married/separated,Red,61+
-"Lamb, Sonny",Male,1,21-22xx,Unknown,Denmark,,Green,31-45
-"Rivera, Brianna",Female,1,23-24xx,,Denmark,Never married,Green,31-45
-"Suarez-Mendez, Isaiah",Male,0,23-24xx,,Denmark,Married/separated,Green,31-45
-"al-Ghattas, Aamir",Male,1,23-24xx,,Denmark,Never married,Green,31-45
-"Newton III, Jordan",Male,1,21-22xx,Lower Education,Denmark,,Green,31-45
-"Liles, Annette",Female,0,21-22xx,,Denmark,Married/separated,Red,46-60
-"Leming, Margaret",Female,1,23-24xx,,Denmark,Never married,Red,31-45
-"Tran, Claire",Female,1,21-22xx,Lower Education,Denmark,Married/separated,Green,61+
-"Sherpa, Long",Male,1,23-24xx,Mid Education,Denmark,,Red,46-60
-"el-Nouri, Zufar",Male,1,21-22xx,,Denmark,Never married,Red,46-60
-"Watts, Martin",Male,1,23-24xx,,Denmark,Never married,Green,18-30
-"Curtis, Hawah",Female,1,23-24xx,Mid Education,Denmark,,Red,31-45
-"Romero, Paul",Male,0,23-24xx,,Denmark,Never married,Green,18-30
-"Jaramillo, Ryan",Male,0,21-22xx,,Denmark,Divorced,Red,46-60
-"el-Kaber, Bassil",Male,0,23-24xx,Mid Education,Denmark,,Red,61+
-"Flores, Jonatan",Male,0,23-24xx,,Denmark,Divorced,Green,31-45
-"Hoong, Alexander",Male,0,23-24xx,,Denmark,Married/separated,Red,46-60
-"al-Yassin, Abdul Kareem",Male,0,21-22xx,,Thailand,Divorced,Green,46-60
-"Hollins, Giovanna",Female,0,23-24xx,,Denmark,Never married,Red,18-30
-"Quilon, Natanya",Female,0,23-24xx,,Denmark,Never married,Red,31-45
-"Sanchez-Pascual, Ashley",Female,0,23-24xx,,Denmark,Divorced,Green,61+
-"Richardson, Jadow",Male,0,23-24xx,Lower Education,Denmark,Married/separated,Red,61+
-"al-Kaiser, Razeena",Female,0,21-22xx,,Denmark,Married/separated,Red,61+
-"Prieto, Philip",Male,1,21-22xx,,Denmark,Never married,Green,31-45
-"Haven, Kendra",Female,1,21-22xx,,Denmark,Never married,Green,18-30
-"Villalobos, Mariah",Female,0,21-22xx,,Denmark,Married/separated,Green,61+
-"Burnett, Trevell",Male,0,23-24xx,,Germany,Married/separated,Red,61+
-"Maryland, Alexandria",Female,0,21-22xx,,Denmark,Married/separated,Red,61+
-"Maes, Julia",Female,0,23-24xx,Mid Education,Denmark,Never married,Green,46-60
-"Vasquez, Anthony",Male,0,23-24xx,,Denmark,Married/separated,Green,46-60
-"Gibbs, Dominique",Male,0,23-24xx,,Denmark,Divorced,Red,61+
-"Grandberry, Bryana",Female,1,23-24xx,Lower Education,Denmark,Married/separated,Green,31-45
-"el-Pour, Faseeha",Female,0,21-22xx,,Denmark,Never married,Green,46-60
-"Tauchen, James",Male,0,23-24xx,,Denmark,Married/separated,Red,61+
-"Almazbek, Aparna",Female,0,21-22xx,,Denmark,Married/separated,Red,46-60
-"Lara, Alex",Male,1,23-24xx,,Denmark,Married/separated,Red,61+
-"Hardon, William",Male,1,23-24xx,Lower Education,Denmark,Married/separated,Green,61+
-"Miller, Misha",Female,0,23-24xx,,Denmark,Married/separated,Green,61+
-"Santistevan, Kevin",Male,1,23-24xx,,Denmark,Married/separated,Green,31-45
-"al-Molla, Shukri",Male,0,23-24xx,,Denmark,Married/separated,Green,46-60
-"Santistevan, Javier",Male,0,21-22xx,,Denmark,Married/separated,Green,31-45
-"Canaday, Safari",Female,0,21-22xx,,Denmark,Never married,Green,31-45
-"el-Raad, Zaahir",Male,0,23-24xx,,Denmark,Widowed,Red,61+
-"Nelms, Adrianna",Female,1,21-22xx,,Denmark,Never married,Green,31-45
-"Dall, Chaska",Male,0,21-22xx,,Denmark,Never married,Green,18-30
-"Fraley, Ronald",Male,1,21-22xx,,Denmark,Married/separated,Red,61+
-"al-Saleh, Mu'hsina",Female,0,21-22xx,,Denmark,Never married,Green,31-45
-"Quintana, Clara",Female,1,21-22xx,,Denmark,Married/separated,Red,46-60
-"Schneider, Christian",Male,1,23-24xx,Mid Education,Denmark,Never married,Green,31-45
-"Carpintero Diaz, Keisha",Female,1,21-22xx,,Denmark,Never married,Green,18-30
-"el-Naqvi, Suhaila",Female,0,23-24xx,,Denmark,Never married,Red,31-45
-"Grimes, Shantelle",Female,1,21-22xx,,Denmark,Married/separated,Red,46-60
-"Stevenson, Traevena",Female,1,23-24xx,,Denmark,Never married,Red,31-45
-"Siewiyumptewa, Marcello",Male,0,23-24xx,,Denmark,Widowed,Green,61+
-"Cheung, Sarah",Female,0,23-24xx,,Denmark,Never married,Green,61+
-"al-Sala, Juwairiya",Female,0,21-22xx,,Denmark,Never married,Red,18-30
-"Rossi, Melanie",Female,1,21-22xx,,Denmark,Divorced,Red,31-45
-"Farrar, Lashawn",Female,1,23-24xx,Mid Education,Denmark,Married/separated,Red,46-60
-"Blanken, Duke",Male,1,21-22xx,,Denmark,Never married,Green,31-45
-"Rice, Niki",Female,1,21-22xx,,Denmark,Married/separated,Green,61+
-"Roman-Jorgenson, Stephanie",Female,0,23-24xx,,Denmark,Divorced,Red,46-60
-"James, Aaliyah",Female,1,21-22xx,,Syria,Never married,Green,18-30
-"Escoto, Chanteal",Female,1,23-24xx,,Denmark,Never married,Green,31-45
-"Sanchez, Bryson",Male,1,23-24xx,Lower Education,Denmark,,Green,18-30
-"Herrera, Jordan",Male,1,21-22xx,,Denmark,Married/separated,Green,31-45
-"al-Javed, Burhaan",Male,1,23-24xx,,Philippines,Never married,Red,18-30
-"Romero, Jamie",Female,0,23-24xx,Lower Education,Denmark,Never married,Red,46-60
-"Liberatore, Berhanmeskel",Male,0,21-22xx,,Denmark,Never married,Green,31-45
-"Cummings, Austin",Male,0,21-22xx,,Denmark,Never married,Red,18-30
-"Moore, Adrienne",Female,0,23-24xx,Lower Education,Denmark,Married/separated,Green,46-60
-"Do, Semalie",Female,0,21-22xx,Lower Education,Denmark,Married/separated,Green,61+
-"Ortiz, Tyreisha",Female,1,23-24xx,,Denmark,Divorced,Green,31-45
-"Desimone, Shelby",Female,1,21-22xx,,Denmark,Never married,Green,31-45
-"Atkins, Brechelle",Female,0,23-24xx,Lower Education,Denmark,Married/separated,Green,61+
-"Misztal, Sally",Female,0,23-24xx,,Denmark,Married/separated,Green,31-45
-"Varghese, Usman",Male,1,21-22xx,,Denmark,Married/separated,Green,31-45
-"Gutierrez, Hailee",Female,0,23-24xx,,Denmark,Never married,Red,61+
-"Peckat, Alexandra",Female,1,23-24xx,Lower Education,Denmark,Never married,Green,31-45
-"Doyle, Timothy",Male,1,23-24xx,,Denmark,Married/separated,Green,31-45
-"Maldonado, Jacqueline",Female,0,23-24xx,,Denmark,Never married,Red,61+
-"Derby, Audrey",Female,1,21-22xx,,Denmark,Divorced,Red,31-45
-"Delohery, Alexa",Female,1,21-22xx,,Denmark,Married/separated,Red,46-60
-"el-Hakeem, Haala",Female,0,23-24xx,,Denmark,Married/separated,Red,61+
-"Biga, Jaelen",Male,1,23-24xx,,Denmark,Divorced,Green,46-60
-"al-Turay, Khaalida",Female,0,23-24xx,Lower Education,Denmark,Never married,Green,31-45
-"el-Rais, Azmi",Male,0,23-24xx,,Spain,Married/separated,Green,46-60
-"Turner, Amanda",Female,1,21-22xx,,Denmark,Never married,Red,46-60
-"Mcdevitt, Philip",Male,0,23-24xx,Mid Education,Denmark,,Green,18-30
-"Kryzanski, Jena",Female,0,23-24xx,,Denmark,Married/separated,Red,46-60
-"Robertson, Brianna",Female,0,23-24xx,,Denmark,Married/separated,Red,46-60
-"Drury-Parlett, Margarita",Female,0,21-22xx,,Denmark,Never married,Green,31-45
-"Pascual, Nathaniel",Male,1,23-24xx,,Denmark,Widowed,Red,61+
-"Chan, Samantha",Female,0,21-22xx,,Denmark,Never married,Red,18-30
-"Treacy, Austin",Male,1,21-22xx,,Denmark,Never married,Green,18-30
-"Aspromonte, Job",Male,1,23-24xx,,Denmark,Married/separated,Red,46-60
-"el-Yousef, Munisa",Female,0,23-24xx,,Denmark,Married/separated,Red,46-60
-"Davis, Jaddah",Female,0,23-24xx,Lower Education,Denmark,Married/separated,Green,31-45
-"Thompson, Jennifer",Female,1,23-24xx,,Denmark,Divorced,Red,61+
-"al-Othman, Wajeeha",Female,0,23-24xx,,Denmark,Never married,Green,31-45
-"al-Saidi, Saamyya",Female,1,23-24xx,,Denmark,Married/separated,Red,61+
-"el-Karimi, Sabri",Male,0,23-24xx,,Denmark,Married/separated,Green,46-60
+name,sex,evote,zip,education,marital_status,party,age_group
+"el-Kaleel, Shujaa",Male,0,23-24xx,Higher Education,Never married,Green,31-45
+"Hamm, Miriah",Female,0,23-24xx,Mid Education,Married/separated,Red,46-60
+"Perkins, Brandy",Female,0,23-24xx,Lower Education,Married/separated,Green,31-45
+"el-Saadeh, Haaroon",Male,1,23-24xx,Lower Education,Married/separated,Green,46-60
+"el-Shabazz, Abdul Haleem",Male,0,23-24xx,Lower Education,Divorced,Green,46-60
+"Jimenez, Shiloh",Female,0,23-24xx,Lower Education,Married/separated,Green,31-45
+"el-Moghaddam, Lubaaba",Female,0,23-24xx,Lower Education,Married/separated,Green,46-60
+"Spencer, Rachel",Female,1,23-24xx,,Married/separated,Invalid vote,31-45
+"Ross, Michael",Male,0,21-22xx,Mid Education,Married/separated,Green,31-45
+"al-Maroun, Jasra",Female,0,23-24xx,Lower Education,Never married,Green,31-45
+"Lee, Seiko",Female,0,21-22xx,Lower Education,Married/separated,Green,31-45
+"al-Dallal, Rashaa",Female,1,23-24xx,,Never married,Green,18-30
+"Wernsmann, Tristan",Male,0,23-24xx,Lower Education,Never married,Green,18-30
+"Rodriguez, Anna",Female,0,21-22xx,,Widowed,Red,61+
+"Lopez, Angelica",Female,0,21-22xx,Mid Education,Married/separated,Green,61+
+"Israel, Rashaan",Male,0,23-24xx,Lower Education,Married/separated,Green,61+
+"Hoadley, Margaret",Female,0,23-24xx,Higher Education,Widowed,Red,61+
+"Lewis, Janae",Female,0,21-22xx,Lower Education,Never married,Green,18-30
+"Shongolo, Tyieshia",Female,1,23-24xx,Higher Education,,Red,46-60
+"Carlo, Tylor",Male,0,21-22xx,Higher Education,,Red,61+
+"Deluna, Alex",Male,1,21-22xx,Lower Education,Married/separated,Green,61+
+"Veasley, Autryana",Female,0,23-24xx,Lower Education,Married/separated,Red,61+
+"el-Bahri, Sahl",Male,0,21-22xx,,Never married,Green,31-45
+"Angel, Alex",Male,1,21-22xx,Lower Education,Married/separated,Green,61+
+"Campbell, Jordan",Male,1,21-22xx,,Divorced,Red,46-60
+"Ross, Brandon",Male,1,21-22xx,Lower Education,Never married,Green,18-30
+"al-Burki, Saahira",Female,0,23-24xx,Lower Education,Married/separated,Green,61+
+"Root, Arraun",Male,0,21-22xx,Lower Education,Never married,Green,18-30
+"Lo, Sean",Male,1,21-22xx,Lower Education,Never married,Green,31-45
+"Matarazzo, Conner",Male,0,21-22xx,Lower Education,Married/separated,Green,61+
+"Worden, Jenna",Female,0,21-22xx,Lower Education,Divorced,Green,46-60
+"Sonoda, Oksanna",Female,1,21-22xx,,Divorced,Red,46-60
+"el-Hoda, Humaina",Female,0,21-22xx,,Married/separated,Red,46-60
+"Cerda-Zarate, Alexis",Male,0,23-24xx,Lower Education,Married/separated,Green,46-60
+"Gonzalez-Herrera, Maira",Female,1,23-24xx,,Never married,Red,31-45
+"Alay, Devonte",Male,0,23-24xx,Lower Education,Married/separated,Green,31-45
+"Kusy, Rachel",Female,0,23-24xx,Lower Education,Married/separated,Red,61+
+"Dechtman, Riley",Female,0,23-24xx,Lower Education,Married/separated,Red,61+
+"Britton, Tyesha",Female,1,21-22xx,Lower Education,Married/separated,Green,31-45
+"al-Beshara, Haazim",Male,0,23-24xx,Lower Education,Never married,Green,46-60
+"Bigbey, Makayla",Female,0,23-24xx,Lower Education,Never married,Red,46-60
+"Lee, Anthony",Male,0,23-24xx,Lower Education,Divorced,Green,46-60
+"Miller, Jodi",Female,1,23-24xx,Lower Education,Married/separated,Green,61+
+"Benton, Erron",Male,0,23-24xx,Higher Education,Married/separated,Red,61+
+"Robinson, Maurice",Male,1,23-24xx,Lower Education,Divorced,Green,46-60
+"al-Javed, Raadiya",Female,0,23-24xx,,Married/separated,Red,46-60
+"Ortegon-Alferes, Michael",Male,1,23-24xx,Mid Education,Divorced,Green,31-45
+"Street, Michelle",Female,0,21-22xx,Lower Education,Never married,Green,31-45
+"Wells, Cody",Male,0,23-24xx,Lower Education,Never married,Green,61+
+"Aggrey Ofori, Javohn",Male,0,23-24xx,,Married/separated,Red,46-60
+"Thornberry, Dietrich",Male,0,23-24xx,Lower Education,Divorced,Green,46-60
+"Calzavara, Whitney",Female,0,21-22xx,Lower Education,Married/separated,Green,46-60
+"Reynolds, Meghan",Female,0,21-22xx,Lower Education,Married/separated,Red,46-60
+"Vance, Julia",Female,0,21-22xx,Lower Education,Never married,Green,18-30
+"Lechman, Jadayja",Female,0,21-22xx,Lower Education,Married/separated,Red,61+
+"Logar, Lance",Male,1,23-24xx,Lower Education,Divorced,Green,46-60
+"al-Husain, Shajee'a",Female,0,21-22xx,Lower Education,Divorced,Red,46-60
+"Eidem, Drew",Male,1,23-24xx,Mid Education,Never married,Green,31-45
+"Matthew, Jean",Female,0,23-24xx,Higher Education,Married/separated,Red,61+
+"al-Amir, Ramla",Female,1,23-24xx,Lower Education,Divorced,Green,46-60
+"Kanaoka, Carly",Female,1,23-24xx,Higher Education,,Red,31-45
+"Villafana, Tyler",Male,1,23-24xx,Lower Education,Married/separated,Green,31-45
+"Tuano, Abhishek",Male,0,23-24xx,Lower Education,Married/separated,Green,61+
+"el-Syed, Manaal",Female,0,21-22xx,Lower Education,Never married,Green,18-30
+"el-Yasin, Taalib",Male,1,21-22xx,Mid Education,Never married,Green,31-45
+"al-Saad, Maimoona",Female,1,23-24xx,Lower Education,Married/separated,Green,31-45
+"Leng, Shawn",Male,1,23-24xx,,Married/separated,Green,31-45
+"Sandoval, Maria",Female,1,21-22xx,Higher Education,Divorced,Red,46-60
+"Emerick, Natalie",Female,0,21-22xx,Lower Education,Married/separated,Green,18-30
+"el-Sayed, Mawzoona",Female,0,21-22xx,Mid Education,Widowed,Red,61+
+"Chislum, Tyahna",Female,0,23-24xx,Lower Education,Married/separated,Red,61+
+"Fender, Chanel",Female,0,21-22xx,Lower Education,Never married,Green,18-30
+"el-Ebrahim, Abdur Rasheed",Male,1,23-24xx,Lower Education,Married/separated,Red,46-60
+"Cox, Andrew",Male,1,23-24xx,Higher Education,Married/separated,Red,31-45
+"Cecil, Alysia",Female,0,23-24xx,,Divorced,Red,61+
+"Hamel, Annamarie",Female,1,23-24xx,,Never married,Green,31-45
+"al-Pirani, Najeema",Female,0,21-22xx,Lower Education,Never married,Green,46-60
+"Baird, Rebekah",Female,0,23-24xx,Lower Education,Divorced,Green,61+
+"Pichardo, Dulce Gilari",Female,0,21-22xx,Lower Education,Married/separated,Green,31-45
+"Martin Del Campo, Alfredo",Male,1,21-22xx,,Never married,Green,31-45
+"Lor, Angad",Male,0,21-22xx,Lower Education,Married/separated,Red,61+
+"Lo, Leng Mi",Female,0,21-22xx,Lower Education,Divorced,Green,61+
+"Williams, Shane",Male,0,23-24xx,Lower Education,Married/separated,Green,31-45
+"Maes, Douglas",Male,0,23-24xx,,Never married,Green,31-45
+"al-Rahaim, Kifaaya",Female,0,23-24xx,Lower Education,Never married,Red,31-45
+"Hamlin, Jacob",Male,0,21-22xx,Lower Education,Divorced,Green,61+
+"Rivas, Bryson",Male,0,23-24xx,,Married/separated,Red,61+
+"Abarca, Salina",Female,1,21-22xx,Lower Education,Never married,Invalid vote,46-60
+"Schonher, Elijah",Male,0,21-22xx,,Married/separated,Red,61+
+"Abrams, Tah Dai",Female,1,23-24xx,Lower Education,Married/separated,Red,46-60
+"Jurado, Mayra",Female,0,21-22xx,Lower Education,Widowed,Red,61+
+"Humphreys, Sherleen",Female,0,23-24xx,Lower Education,Divorced,Green,61+
+"Myong, Tracy",Female,1,23-24xx,,Never married,Green,18-30
+"Lancaster, Dejon",Male,0,21-22xx,Higher Education,Never married,Red,46-60
+"al-Adel, Shamaail",Female,0,23-24xx,Lower Education,Married/separated,Green,61+
+"Than, Bani",Female,0,23-24xx,Lower Education,Never married,Red,46-60
+"Smith, Diamond",Female,0,21-22xx,Lower Education,Married/separated,Green,46-60
+"Burton, Jessica",Female,1,23-24xx,Lower Education,Married/separated,Red,46-60
+"el-Naim, Nizaam",Male,1,23-24xx,Higher Education,Married/separated,Red,61+
+"Lamb, Sonny",Male,1,21-22xx,Unclassified,,Green,31-45
+"Rivera, Brianna",Female,1,23-24xx,Lower Education,Never married,Green,31-45
+"Suarez-Mendez, Isaiah",Male,0,23-24xx,,Married/separated,Green,31-45
+"al-Ghattas, Aamir",Male,1,23-24xx,Lower Education,Never married,Green,31-45
+"Newton III, Jordan",Male,1,21-22xx,Lower Education,Never married,Green,31-45
+"Liles, Annette",Female,0,21-22xx,Lower Education,Married/separated,Red,46-60
+"Leming, Margaret",Female,1,23-24xx,,Never married,Red,31-45
+"Tran, Claire",Female,1,21-22xx,Lower Education,Married/separated,Green,61+
+"Sherpa, Long",Male,1,23-24xx,Mid Education,,Red,46-60
+"el-Nouri, Zufar",Male,1,21-22xx,Higher Education,Never married,Red,46-60
+"Watts, Martin",Male,1,23-24xx,Lower Education,Never married,Green,18-30
+"Curtis, Hawah",Female,1,23-24xx,Mid Education,,Red,31-45
+"Romero, Paul",Male,0,23-24xx,Lower Education,Never married,Green,18-30
+"Jaramillo, Ryan",Male,0,21-22xx,,Divorced,Red,46-60
+"el-Kaber, Bassil",Male,0,23-24xx,Mid Education,Widowed,Red,61+
+"Flores, Jonatan",Male,0,23-24xx,Lower Education,Divorced,Green,31-45
+"Hoong, Alexander",Male,0,23-24xx,Lower Education,Married/separated,Red,46-60
+"al-Yassin, Abdul Kareem",Male,0,21-22xx,Lower Education,,Green,46-60
+"Hollins, Giovanna",Female,0,23-24xx,Higher Education,,Red,18-30
+"Quilon, Natanya",Female,0,23-24xx,,Never married,Red,31-45
+"Sanchez-Pascual, Ashley",Female,0,23-24xx,Lower Education,Divorced,Green,61+
+"Richardson, Jadow",Male,0,23-24xx,Lower Education,Married/separated,Red,61+
+"al-Kaiser, Razeena",Female,0,21-22xx,Lower Education,Married/separated,Red,61+
+"Prieto, Philip",Male,1,21-22xx,Lower Education,Never married,Green,31-45
+"Haven, Kendra",Female,1,21-22xx,Lower Education,Never married,Green,18-30
+"Villalobos, Mariah",Female,0,21-22xx,Lower Education,Married/separated,Green,61+
+"Burnett, Trevell",Male,0,23-24xx,Higher Education,Married/separated,Red,61+
+"Maryland, Alexandria",Female,0,21-22xx,Lower Education,Married/separated,Red,61+
+"Maes, Julia",Female,0,23-24xx,Mid Education,Never married,Green,46-60
+"Vasquez, Anthony",Male,0,23-24xx,Lower Education,Married/separated,Green,46-60
+"Gibbs, Dominique",Male,0,23-24xx,Lower Education,Divorced,Red,61+
+"Grandberry, Bryana",Female,1,23-24xx,Lower Education,Married/separated,Green,31-45
+"el-Pour, Faseeha",Female,0,21-22xx,,Never married,Green,46-60
+"Tauchen, James",Male,0,23-24xx,Higher Education,Married/separated,Red,61+
+"Almazbek, Aparna",Female,0,21-22xx,Higher Education,Married/separated,Red,46-60
+"Lara, Alex",Male,1,23-24xx,Mid Education,Married/separated,Red,61+
+"Hardon, William",Male,1,23-24xx,Lower Education,Married/separated,Green,61+
+"Miller, Misha",Female,0,23-24xx,,Married/separated,Green,61+
+"Santistevan, Kevin",Male,1,23-24xx,Higher Education,Married/separated,Green,31-45
+"al-Molla, Shukri",Male,0,23-24xx,Lower Education,Married/separated,Green,46-60
+"Santistevan, Javier",Male,0,21-22xx,,Married/separated,Green,31-45
+"Canaday, Safari",Female,0,21-22xx,Lower Education,Never married,Green,31-45
+"el-Raad, Zaahir",Male,0,23-24xx,,Widowed,Red,61+
+"Nelms, Adrianna",Female,1,21-22xx,Lower Education,Never married,Green,31-45
+"Dall, Chaska",Male,0,21-22xx,Lower Education,Never married,Green,18-30
+"Fraley, Ronald",Male,1,21-22xx,Lower Education,Married/separated,Red,61+
+"al-Saleh, Mu'hsina",Female,0,21-22xx,Lower Education,Never married,Green,31-45
+"Quintana, Clara",Female,1,21-22xx,Mid Education,,Red,46-60
+"Schneider, Christian",Male,1,23-24xx,Mid Education,Never married,Green,31-45
+"Carpintero Diaz, Keisha",Female,1,21-22xx,,Never married,Green,18-30
+"el-Naqvi, Suhaila",Female,0,23-24xx,,Never married,Red,31-45
+"Grimes, Shantelle",Female,1,21-22xx,Lower Education,Married/separated,Red,46-60
+"Stevenson, Traevena",Female,1,23-24xx,,Never married,Red,31-45
+"Siewiyumptewa, Marcello",Male,0,23-24xx,Lower Education,Widowed,Green,61+
+"Cheung, Sarah",Female,0,23-24xx,Lower Education,Never married,Green,61+
+"al-Sala, Juwairiya",Female,0,21-22xx,,Never married,Red,18-30
+"Rossi, Melanie",Female,1,21-22xx,Higher Education,,Red,31-45
+"Farrar, Lashawn",Female,1,23-24xx,Mid Education,Married/separated,Red,46-60
+"Blanken, Duke",Male,1,21-22xx,Higher Education,,Green,31-45
+"Rice, Niki",Female,1,21-22xx,Lower Education,Married/separated,Green,61+
+"Roman-Jorgenson, Stephanie",Female,0,23-24xx,Lower Education,Divorced,Red,46-60
+"James, Aaliyah",Female,1,21-22xx,Higher Education,,Green,18-30
+"Escoto, Chanteal",Female,1,23-24xx,Lower Education,Never married,Green,31-45
+"Sanchez, Bryson",Male,1,23-24xx,Lower Education,Never married,Green,18-30
+"Herrera, Jordan",Male,1,21-22xx,Lower Education,Married/separated,Green,31-45
+"al-Javed, Burhaan",Male,1,23-24xx,Mid Education,Never married,Red,18-30
+"Romero, Jamie",Female,0,23-24xx,Lower Education,Never married,Red,46-60
+"Liberatore, Berhanmeskel",Male,0,21-22xx,Lower Education,Never married,Green,31-45
+"Cummings, Austin",Male,0,21-22xx,,Never married,Red,18-30
+"Moore, Adrienne",Female,0,23-24xx,Lower Education,Married/separated,Green,46-60
+"Do, Semalie",Female,0,21-22xx,Lower Education,Married/separated,Green,61+
+"Ortiz, Tyreisha",Female,1,23-24xx,Lower Education,Divorced,Green,31-45
+"Desimone, Shelby",Female,1,21-22xx,Lower Education,Never married,Green,31-45
+"Atkins, Brechelle",Female,0,23-24xx,Lower Education,Married/separated,Green,61+
+"Misztal, Sally",Female,0,23-24xx,,Married/separated,Green,31-45
+"Varghese, Usman",Male,1,21-22xx,Lower Education,Married/separated,Green,31-45
+"Gutierrez, Hailee",Female,0,23-24xx,Lower Education,Never married,Red,61+
+"Peckat, Alexandra",Female,1,23-24xx,Lower Education,Never married,Green,31-45
+"Doyle, Timothy",Male,1,23-24xx,Lower Education,Married/separated,Green,31-45
+"Maldonado, Jacqueline",Female,0,23-24xx,,Never married,Red,61+
+"Derby, Audrey",Female,1,21-22xx,Mid Education,,Red,31-45
+"Delohery, Alexa",Female,1,21-22xx,Lower Education,Married/separated,Red,46-60
+"el-Hakeem, Haala",Female,0,23-24xx,Higher Education,Married/separated,Red,61+
+"Biga, Jaelen",Male,1,23-24xx,Lower Education,Divorced,Green,46-60
+"al-Turay, Khaalida",Female,0,23-24xx,Lower Education,Never married,Green,31-45
+"el-Rais, Azmi",Male,0,23-24xx,,Married/separated,Green,46-60
+"Turner, Amanda",Female,1,21-22xx,,Never married,Red,46-60
+"Mcdevitt, Philip",Male,0,23-24xx,Mid Education,Never married,Green,18-30
+"Kryzanski, Jena",Female,0,23-24xx,,Married/separated,Red,46-60
+"Robertson, Brianna",Female,0,23-24xx,,Married/separated,Red,46-60
+"Drury-Parlett, Margarita",Female,0,21-22xx,Lower Education,Never married,Green,31-45
+"Pascual, Nathaniel",Male,1,23-24xx,,Widowed,Red,61+
+"Chan, Samantha",Female,0,21-22xx,Lower Education,Never married,Red,18-30
+"Treacy, Austin",Male,1,21-22xx,Lower Education,Never married,Green,18-30
+"Aspromonte, Job",Male,1,23-24xx,Lower Education,Married/separated,Red,46-60
+"el-Yousef, Munisa",Female,0,23-24xx,Lower Education,Married/separated,Red,46-60
+"Davis, Jaddah",Female,0,23-24xx,Lower Education,Married/separated,Green,31-45
+"Thompson, Jennifer",Female,1,23-24xx,Lower Education,Divorced,Red,61+
+"al-Othman, Wajeeha",Female,0,23-24xx,Lower Education,Never married,Green,31-45
+"al-Saidi, Saamyya",Female,1,23-24xx,Lower Education,Married/separated,Red,61+
+"el-Karimi, Sabri",Male,0,23-24xx,Lower Education,Married/separated,Green,46-60
