@@ -1,22 +1,20 @@
 import pandas as pd
 
-# Load anonymised dataset
-df = pd.read_csv("anonymised_dataF_balanced_final.csv")
+# Load anonymized dataset
+df = pd.read_csv("anonymised_dataX.csv")
 
 # Define quasi-identifiers
-quasi_identifiers = ['age_group', 'zip_region', 'sex', 'education']
+quasi_identifiers = ['age_group', 'zip', 'sex', 'education']
 
-# --- k-Anonymity ---
-group_sizes = df.groupby(quasi_identifiers).size()
-k_anonymity = group_sizes.min()
-print(f"k-anonymity: {k_anonymity}")
+# Group by quasi-identifiers and count
+group_counts = df.groupby(quasi_identifiers).size().reset_index(name='count')
 
-# --- l-Diversity for 'party' ---
-l_diversity = df.groupby(quasi_identifiers)['party'].nunique().min()
-print(f"l-diversity: {l_diversity}")
+# Metrics
+k_min = group_counts['count'].min()
+unique_records = group_counts[group_counts['count'] == 1].shape[0]
+risk_distribution = group_counts['count'].value_counts().sort_index()
 
-# --- Global Risk ---
-total_records = len(df)
-unique_records = (group_sizes == 1).sum()
-global_risk = (unique_records / total_records) * 100
-print(f"Global risk: {global_risk:.2f}% of records are unique based on quasi-identifiers")
+print(f"Minimum k-anonymity: {k_min}")
+print(f"Number of unique records (k=1): {unique_records}")
+print("\nDistribution of k-values:")
+print(risk_distribution)

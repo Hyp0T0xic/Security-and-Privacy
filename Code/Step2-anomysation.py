@@ -1,83 +1,58 @@
 import pandas as pd
 import numpy as np
+from datetime import datetime
 
-# Load original dataset
-df = pd.read_excel("Group goopers Dataset F-20251103\private_dataF.xlsx", engine="openpyxl")
+# Load the raw dataset
+raw_df = pd.read_excel("Group goopers Dataset F-20251103\private_dataF.xlsx", engine="openpyxl")
 
-# --- GENERALISATION ---
+# -----------------------------
+# Anonymisation Strategy
+# -----------------------------
 
-# Convert DOB to age (assuming survey date is July 1, 2025)
-survey_date = pd.to_datetime("2025-07-01")
-df['dob'] = pd.to_datetime(df['dob'], errors='coerce')
-df['age'] = (survey_date - df['dob']).dt.days // 365
+# 1. Generalize ZIP codes to broader regions (e.g., 21xx, 22xx)
+def generalize_zip(zip_code):
+    return str(zip_code)[:2] + "xx"
+raw_df['zip'] = raw_df['zip'].apply(generalize_zip)
 
-# Age groups: fewer but meaningful
-age_bins = [0, 30, 60, 100]
-age_labels = ['<30', '30-60', '60+']
-df['age_group'] = pd.cut(df['age'], bins=age_bins, labels=age_labels, right=False)
+# 2. Convert DOB to age groups
+def dob_to_age_group(dob):
+    today = datetime(2025, 11, 7)
+    age = (today - pd.to_datetime(dob)).days // 365
+    if age <= 30:
+        return "18-30"
+    elif age <= 45:
+        return "31-45"
+    elif age <= 60:
+        return "46-60"
+    else:
+        return "61+"
+raw_df['age_group'] = raw_df['dob'].apply(dob_to_age_group)
+raw_df.drop(columns=['dob'], inplace=True)  # Drop original DOB
 
-# ZIP regions: merge into two broader regions
-zip_map = {2100: '21-22xx', 2200: '21-22xx', 2300: '23-24xx', 2400: '23-24xx'}
-df['zip_region'] = df['zip'].map(zip_map)
-
-# Education: group into Low, Medium, High
+# 3. Group rare education levels into broader categories
 education_map = {
-    'Primary education': 'Low',
-    'Upper secondary education': 'Low',
-    'Vocational Education and Training (VET)': 'Medium',
-    'Short cycle higher education': 'Medium',
-    "Vocational bachelors educations": 'Medium',
-    "Bachelors programmes": 'High',
-    "Masters programmes": 'High',
-    "Qualifying educational programmes": 'Medium'
+    'PhD': 'Higher Education',
+    "Master's": 'Higher Education',
+    "Bachelor's": 'Higher Education',
+    "Vocational bachelor's": 'Higher Education',
+    'Short cycle higher education': 'Mid Education',
+    'VET': 'Mid Education',
+    'Upper secondary': 'Lower Education',
+    'Primary education': 'Lower Education',
+    'Not stated': 'Unknown'
 }
-df['education_group'] = df['education'].map(education_map)
+raw_df['education'] = raw_df['education'].map(education_map)
 
-# Marital status: generalise into Single, Married/Separated, Other
-marital_map = {
-    'Never married': 'Single',
-    'Married/separated': 'Married/Separated',
-    'Divorced': 'Other',
-    'Widowed': 'Other'
-}
-df['marital_group'] = df['marital_status'].map(marital_map)
+# 4. Suppress marital status for high-risk records
+quasi_identifiers = ['age_group', 'zip', 'sex', 'education']
+group_counts = raw_df.groupby(quasi_identifiers).size().reset_index(name='count')
+raw_df = raw_df.merge(group_counts, on=quasi_identifiers)
 
-# --- SUPPRESSION ---
+raw_df.loc[raw_df['count'] == 1, 'marital_status'] = np.nan
+raw_df.drop(columns=['count'], inplace=True)
 
-# Define quasi-identifiers
-quasi_identifiers = ['age_group', 'zip_region', 'sex', 'education_group']
-
-# Identify unique combinations
-group_sizes = df.groupby(quasi_identifiers).size()
-unique_combos = group_sizes[group_sizes == 1].reset_index()
-
-# Mark rows for suppression
-df['suppress'] = df[quasi_identifiers].merge(unique_combos, on=quasi_identifiers, how='left', indicator=True)['_merge'] == 'both'
-
-# Suppress only 'party' (keep evote and marital_group)
-df.loc[df['suppress'], 'party'] = np.nan
-
-# Drop intermediate columns
-df.drop(columns=['dob', 'age', 'suppress'], inplace=True)
+# 5. Keep evote intact for utility (no changes needed)
 
 # Save anonymised dataset
-df.to_csv("anonymised_dataF_balanced_final.csv", index=False)
-
-# --- DISCLOSURE RISK METRICS ---
-
-# k-anonymity
-group_sizes = df.groupby(quasi_identifiers).size()
-k_anonymity = group_sizes.min()
-
-# l-diversity for 'party'
-l_diversity = df.groupby(quasi_identifiers)['party'].nunique().min()
-
-# Global risk
-total_records = len(df)
-unique_records = (group_sizes == 1).sum()
-global_risk = (unique_records / total_records) * 100
-
-# Print results
-print(f"k-anonymity: {k_anonymity}")
-print(f"l-diversity: {l_diversity}")
-print(f"Global risk: {global_risk:.2f}% of records are unique based on quasi-identifiers")
+raw_df.to_csv("anonymised_dataX.csv", index=False)
+print("Anonymisation complete. Output saved to anonymised_dataX.csv")
