@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv("anonymised_dataF.csv")
 
 # Define quasi-identifiers
-quasi_identifiers = ['age_group', 'evote','sex', 'education', 'marital_status', 'party']
+quasi_identifiers = ['age_group', 'sex', 'education', 'marital_status']
 
 # Group and calculate k-anonymity metrics
 k_counts = df.groupby(quasi_identifiers).size().reset_index(name='count')
@@ -20,3 +20,4 @@ print(k_distribution.to_string())
 # Optional: Print high-risk combinations
 print("\nHigh-risk combinations (k=1):")
 print(k_counts[k_counts['count'] == 1].to_string(index=False))
+print(k_counts[k_counts['count'] == 2].to_string(index=False))
