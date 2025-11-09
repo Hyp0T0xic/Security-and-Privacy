@@ -1,0 +1,42 @@
+import pandas as pd
+from scipy.stats import pearsonr, chi2_contingency
+import numpy as np
+
+# ---- PATHS (edit) ----
+PRIV = "Group goopers Dataset F-20251103\private_dataF.xlsx"
+PUB  = "Group goopers Dataset F-20251103\public_data_registerF.xlsx"
+SHEET = "Sheet 1"
+
+# ---- LOAD ----
+priv = pd.read_excel(PRIV, sheet_name=SHEET, engine="openpyxl",
+                     usecols=["name","dob","zip","sex","evote"])
+pub  = pd.read_excel(PUB,  sheet_name=SHEET, engine="openpyxl",
+                     usecols=["name","dob","zip","sex","last_voted"])
+
+# ---- CLEAN TYPES (dates/zip) ----
+for df in (priv, pub):
+    df["dob"] = pd.to_datetime(df["dob"], dayfirst=True, errors="coerce").dt.strftime("%d/%m/%Y")
+    df["zip"] = df["zip"].astype(str).str.zfill(4)
+
+# ---- MERGE (exact); fallback to (dob,zip,sex) if name formatting differs ----
+df = priv.merge(pub, on=["name","dob","zip","sex"], how="inner", suffixes=("_priv","_pub"))
+if df.empty:
+    df = priv.merge(pub, on=["dob","zip","sex"], how="inner", suffixes=("_priv","_pub"))
+
+# ---- ANALYSE: Mode vs Mode among voters only (last_voted in {0,1}) ----
+voters = df[df["last_voted"].isin([0, 1])].dropna(subset=["evote","last_voted"])
+ct = pd.crosstab(voters["evote"], voters["last_voted"])
+
+if voters.empty or ct.shape[0] < 1 or ct.shape[1] < 1 or ct.values.sum() == 0:
+    print("No analyzable rows after filters. Check join and columns.")
+else:
+    # If table is a full 2x2, compute phi, chi2, Cramér's V
+    if voters["evote"].nunique() == 2 and voters["last_voted"].nunique() == 2:
+        phi, p = pearsonr(voters["evote"], voters["last_voted"])
+        chi2, p_chi, _, _ = chi2_contingency(ct)
+        V = (chi2 / (ct.values.sum() * (min(ct.shape) - 1)))**0.5
+        print(f"N={len(voters)} | phi={phi:.3f} (p={p:.4g}) | Chi²={chi2:.2f} (p={p_chi:.4g}) | Cramér's V={V:.3f}")
+    else:
+        print(f"N={len(voters)} | Not a full 2x2 (some category missing); showing counts only.")
+    print("Contingency (rows=survey evote 0/1, cols=register last_voted 0/1):")
+    print(ct)

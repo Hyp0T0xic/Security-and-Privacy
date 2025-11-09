@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load anonymized dataset
-df = pd.read_csv("anonymised_dataX.csv")
+df = pd.read_csv("anonymised_dataF.csv")
 
 # Define quasi-identifiers and sensitive attribute
 quasi_identifiers = ['age_group', 'zip', 'sex', 'education']
