@@ -3,7 +3,7 @@ import numpy as np
 from datetime import datetime
 
 INPUT = "private_dataF.xlsx"
-OUTPUT = "anonymised_dataF_mitigated.csv"
+OUTPUT = "anonymised_dataF_sup.csv"
 SURVEY_DATE = datetime(2025, 11, 7)
 K = 3
 RANDOM_SEED = 69
@@ -35,8 +35,8 @@ education_map = {
     "Primary education": "Lower education",
     "Upper secondary education": "Lower education",
     "Vocational Education and Training (VET)": "Lower education",
-    "Short cycle higher education": "Lower education",
-    "Vocational bachelors educations": "Lower education",
+    "Short cycle higher education": "Higher education",
+    "Vocational bachelors educations": "Higher education",
     "Bachelors programmes": "Higher education",
     "Masters programmes": "Higher education",
     "PhD programmes": "Higher education",
@@ -79,7 +79,7 @@ def risk_metrics(df, qis, k=K):
     }
 
 # ---------------- Baseline risk (including evote as QI) ----------------
-qis_attack = ['sex','age_group','marital_status','education','evote']
+qis_attack = ['sex','age_group','marital_status','evote']
 baseline = risk_metrics(df, qis_attack, k=K)
 print("BASELINE (attack includes evote):")
 print(f" Total: {baseline['total']}; Unique: {baseline['unique']} ({baseline['unique_pct']:.2f}%)")
