@@ -1,0 +1,1484 @@
+sex,evote,party,age_a,edu_a,citizenship_a,maritalstatus_a,zip_a,match
+Female,0,Red,<30,Lower,EU,Married,21xx,False
+Male,1,Green,<30,Lower,EU,Married,22xx,False
+Female,1,Green,<30,Lower,EU,Married,23xx,True
+Male,1,Green,<30,Lower,EU,Married,23xx,False
+Male,1,Green,<30,Lower,EU,Married,21xx,False
+Male,1,Green,<30,Lower,non EU,Married,21xx,False
+Female,1,Green,<30,Lower,EU,Married,24xx,True
+Male,1,Green,<30,Lower,EU,Married,23xx,False
+Female,0,Red,<30,Lower,EU,Married,22xx,False
+Male,1,Green,<30,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,1,Green,<30,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,23xx,False
+Female,1,Green,<30,Lower,EU,Married,21xx,False
+Female,0,Red,<30,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,22xx,False
+Female,1,Green,<30,Lower,EU,Married,22xx,True
+Female,1,Green,<30,Lower,non EU,Married,21xx,False
+Male,1,Green,<30,Lower,EU,Married,21xx,False
+Male,1,Green,<30,Lower,EU,Married,22xx,False
+Female,0,Red,<30,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,24xx,False
+Female,1,Green,<30,Lower,EU,Married,24xx,True
+Male,1,Green,<30,Lower,EU,Married,22xx,False
+Female,1,Green,<30,Lower,EU,Married,22xx,True
+Female,1,Green,<30,Lower,non EU,Married,21xx,False
+Female,0,Red,<30,Lower,EU,Married,24xx,False
+Male,0,Red,<30,Lower,EU,Married,21xx,False
+Female,0,Red,<30,Lower,non EU,Married,24xx,False
+Male,0,Red,<30,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,0,Red,<30,Lower,EU,Married,23xx,False
+Male,1,Green,<30,Lower,EU,Married,22xx,False
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,<30,Lower,EU,Married,22xx,False
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,<30,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,<30,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,<30,Lower,EU,Married,22xx,False
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,<30,Lower,EU,Married,22xx,False
+Male,1,Green,<30,Lower,EU,Married,23xx,False
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Female,1,Green,30-49,Lower,EU,Single,21xx,False
+Male,1,Green,<30,Lower,EU,Married,21xx,False
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,1,Green,<30,Lower,EU,Married,22xx,False
+Female,1,Green,30-49,Lower,non EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,<30,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,0,Red,30-49,Lower,EU,Single,24xx,False
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Male,0,Red,<30,Lower,EU,Married,22xx,False
+Male,1,Green,30-49,Lower,non EU,Married,24xx,False
+Female,1,Green,<30,Lower,EU,Married,23xx,True
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,<30,Lower,EU,Married,23xx,True
+Male,1,Green,30-49,Lower,non EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Male,0,Red,<30,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,1,Green,<30,Lower,EU,Married,21xx,False
+Female,1,Green,<30,Lower,EU,Married,22xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,0,Red,<30,Lower,EU,Married,24xx,False
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,22xx,False
+Female,1,Green,<30,Lower,EU,Married,21xx,False
+Male,1,Green,<30,Lower,EU,Married,22xx,False
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Female,1,Green,<30,Lower,EU,Married,21xx,False
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,<30,Lower,EU,Married,24xx,False
+Male,1,Green,30-49,Lower,non EU,Married,22xx,False
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Female,1,Green,30-49,Lower,EU,Single,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,<30,Lower,EU,Married,21xx,False
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Male,1,Green,<30,Lower,EU,Married,23xx,False
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Male,1,Green,30-49,Lower,EU,Single,23xx,False
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,non EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,0,Red,30-49,Lower,EU,Single,22xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Female,1,Green,30-49,Lower,non EU,Married,21xx,False
+Male,1,Green,30-49,Lower,non EU,Married,24xx,False
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,1,Green,30-49,Lower,EU,Single,23xx,False
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,non EU,Single,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,30-49,Lower,EU,Single,24xx,False
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Female,0,Red,30-49,Lower,EU,Single,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Single,23xx,False
+Male,1,Green,30-49,Lower,EU,Single,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Single,23xx,False
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,30-49,Lower,EU,Single,23xx,False
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Single,23xx,False
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Female,1,Green,50-64,Lower,EU,Married,22xx,False
+Female,1,Green,30-49,Lower,EU,Single,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,30-49,Lower,non EU,Single,24xx,False
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,1,Green,30-49,Lower,EU,Single,23xx,False
+Male,1,Green,50-64,Lower,EU,Single,24xx,False
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,1,Green,50-64,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,1,Green,30-49,Lower,EU,Single,21xx,False
+Female,0,Red,30-49,Lower,EU,Single,22xx,False
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Single,24xx,False
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Male,1,Green,50-64,Lower,EU,Single,22xx,False
+Male,1,Green,50-64,Lower,EU,Single,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,50-64,Lower,EU,Single,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,1,Green,50-64,Lower,EU,Married,23xx,True
+Male,1,Green,50-64,Lower,EU,Married,23xx,True
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,0,Red,50-64,Lower,EU,Married,23xx,False
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,1,Green,50-64,Lower,EU,Married,23xx,True
+Male,1,Green,50-64,Lower,EU,Married,22xx,True
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,50-64,Lower,EU,Single,22xx,False
+Female,1,Green,50-64,Lower,non EU,Married,23xx,False
+Female,1,Green,50-64,Lower,EU,Married,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Female,1,Green,50-64,Lower,non EU,Married,24xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,0,Red,50-64,Lower,non EU,Married,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,23xx,False
+Male,1,Green,50-64,Lower,EU,Married,22xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Female,1,Green,50-64,Lower,EU,Married,23xx,True
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,0,Red,50-64,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,1,Green,30-49,Lower,EU,Married,22xx,True
+Male,1,Green,30-49,Lower,EU,Married,21xx,True
+Female,1,Green,30-49,Lower,non EU,Married,24xx,False
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Female,0,Red,50-64,Lower,EU,Single,24xx,True
+Male,1,Green,50-64,Lower,EU,Single,24xx,False
+Female,1,Green,50-64,Lower,EU,Single,21xx,False
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,50-64,Lower,EU,Married,21xx,False
+Male,1,Green,50-64,Lower,EU,Married,22xx,True
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Female,1,Green,50-64,Lower,EU,Married,23xx,True
+Female,1,Green,30-49,Lower,EU,Married,24xx,True
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,50-64,Lower,EU,Married,23xx,True
+Male,1,Green,50-64,Lower,EU,Married,23xx,True
+Male,1,Green,50-64,Lower,EU,Married,21xx,False
+Male,1,Green,30-49,Lower,non EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Single,23xx,False
+Male,0,Red,50-64,Lower,non EU,Married,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Female,1,Green,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,non EU,Single,23xx,False
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Male,1,Green,50-64,Lower,EU,Married,22xx,True
+Female,0,Red,50-64,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Married,23xx,True
+Male,1,Green,30-49,Lower,non EU,Married,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,23xx,False
+Male,1,Green,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,0,Red,50-64,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Female,1,Green,50-64,Lower,non EU,Married,22xx,False
+Male,1,Green,50-64,Lower,EU,Single,21xx,False
+Male,1,Green,50-64,Lower,EU,Married,22xx,True
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Female,1,Green,50-64,Lower,EU,Married,23xx,True
+Male,1,Green,50-64,Lower,EU,Married,22xx,True
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,30-49,Lower,EU,Single,24xx,False
+Male,1,Green,50-64,Lower,EU,Single,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Female,1,Green,30-49,Lower,EU,Married,23xx,False
+Male,1,Green,50-64,Lower,EU,Married,22xx,True
+Male,1,Green,50-64,Lower,EU,Married,23xx,True
+Female,1,Green,50-64,Lower,EU,Single,22xx,False
+Male,1,Green,50-64,Lower,EU,Single,24xx,False
+Female,1,Green,65+,Lower,EU,Single,21xx,False
+Male,1,Green,50-64,Lower,EU,Married,21xx,False
+Female,1,Green,65+,Lower,EU,Married,22xx,True
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Female,0,Red,50-64,Lower,EU,Single,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,0,Red,50-64,Lower,EU,Single,24xx,False
+Male,1,Green,50-64,Lower,EU,Single,22xx,False
+Female,0,Red,65+,Lower,EU,Married,23xx,False
+Female,0,Red,65+,Lower,non EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,23xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Male,0,Red,65+,Lower,EU,Married,21xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Male,1,Green,65+,Lower,EU,Married,23xx,False
+Male,1,Green,50-64,Lower,EU,Married,21xx,False
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,50-64,Lower,EU,Married,23xx,True
+Male,1,Green,50-64,Lower,EU,Married,23xx,True
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,1,Green,65+,Lower,EU,Married,23xx,False
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Female,1,Green,50-64,Lower,EU,Married,22xx,False
+Female,0,Red,50-64,Lower,EU,Single,22xx,False
+Male,1,Green,50-64,Lower,EU,Married,23xx,True
+Female,1,Green,65+,Lower,EU,Single,24xx,False
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Female,1,Green,50-64,Lower,EU,Married,22xx,False
+Female,1,Green,50-64,Lower,EU,Married,23xx,True
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,0,Red,50-64,Lower,EU,Single,24xx,False
+Female,1,Green,50-64,Lower,EU,Married,22xx,False
+Female,1,Green,50-64,Lower,EU,Married,23xx,True
+Female,1,Green,50-64,Lower,EU,Single,24xx,False
+Male,1,Green,50-64,Lower,EU,Married,22xx,True
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,1,Green,65+,Lower,EU,Single,24xx,False
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Male,1,Green,50-64,Lower,EU,Married,21xx,False
+Female,0,Red,50-64,Lower,EU,Married,21xx,False
+Male,1,Green,50-64,Lower,EU,Married,22xx,True
+Male,0,Red,65+,Lower,EU,Married,22xx,True
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,50-64,Lower,EU,Married,21xx,False
+Female,1,Green,65+,Lower,EU,Married,24xx,True
+Male,1,Green,50-64,Lower,EU,Single,23xx,False
+Female,1,Green,50-64,Lower,EU,Single,24xx,False
+Female,1,Green,50-64,Lower,non EU,Married,24xx,False
+Female,1,Green,50-64,Lower,EU,Married,23xx,True
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Female,1,Green,50-64,Lower,EU,Married,21xx,False
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Female,1,Green,50-64,Lower,EU,Married,23xx,True
+Female,1,Green,50-64,Lower,EU,Married,22xx,False
+Male,1,Green,65+,Lower,EU,Married,24xx,True
+Female,1,Green,65+,Lower,EU,Single,22xx,False
+Male,1,Green,50-64,Lower,EU,Married,23xx,True
+Female,1,Green,50-64,Lower,EU,Married,23xx,True
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Female,1,Green,50-64,Lower,EU,Married,22xx,False
+Female,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,65+,Lower,EU,Married,24xx,True
+Female,1,Green,50-64,Lower,EU,Married,23xx,True
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,65+,Lower,EU,Married,23xx,False
+Female,1,Green,65+,Lower,EU,Married,23xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Female,1,Green,65+,Lower,EU,Married,21xx,False
+Female,1,Green,65+,Lower,EU,Married,24xx,True
+Female,1,Green,65+,Lower,EU,Single,21xx,False
+Male,1,Green,65+,Lower,EU,Single,22xx,False
+Female,1,Green,65+,Lower,EU,Married,23xx,False
+Female,1,Green,65+,Lower,EU,Single,23xx,False
+Female,1,Green,65+,Lower,EU,Married,22xx,True
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,1,Green,65+,Lower,EU,Married,23xx,False
+Female,1,Green,65+,Lower,EU,Married,22xx,True
+Female,1,Green,65+,Lower,EU,Married,24xx,True
+Male,1,Green,65+,Lower,EU,Married,24xx,True
+Male,0,Red,65+,Lower,EU,Married,22xx,True
+Female,1,Green,65+,Lower,EU,Married,24xx,True
+Male,1,Green,65+,Lower,EU,Married,23xx,False
+Male,1,Green,65+,Lower,EU,Married,22xx,False
+Female,1,Green,65+,Lower,EU,Married,23xx,False
+Female,1,Green,65+,Lower,EU,Single,24xx,False
+Female,1,Green,65+,Lower,EU,Married,24xx,True
+Female,1,Green,65+,Lower,EU,Married,24xx,True
+Female,0,Red,65+,Lower,EU,Married,22xx,True
+Male,0,Red,65+,Lower,EU,Married,21xx,False
+Female,1,Green,65+,Lower,EU,Married,24xx,True
+Female,1,Green,65+,Lower,EU,Married,24xx,True
+Male,1,Green,65+,Lower,EU,Married,24xx,True
+Female,0,Red,65+,Lower,EU,Single,24xx,False
+Female,1,Green,65+,Lower,EU,Married,22xx,True
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,1,Green,65+,Lower,EU,Married,23xx,False
+Female,0,Red,65+,Lower,EU,Single,24xx,False
+Male,1,Green,65+,Lower,EU,Single,23xx,False
+Male,1,Green,65+,Lower,non EU,Married,23xx,False
+Male,1,Green,65+,Lower,EU,Married,24xx,True
+Male,1,Green,65+,Lower,EU,Single,23xx,False
+Male,1,Green,50-64,Lower,EU,Married,22xx,True
+Female,1,Green,65+,Lower,EU,Single,23xx,False
+Female,1,Green,65+,Lower,EU,Married,22xx,True
+Male,1,Green,65+,Lower,EU,Single,24xx,False
+Female,1,Green,65+,Lower,EU,Married,23xx,False
+Male,1,Green,65+,Lower,EU,Married,24xx,True
+Female,1,Green,65+,Lower,EU,Married,22xx,True
+Female,1,Green,65+,Lower,EU,Married,22xx,True
+Female,1,Green,65+,Lower,non EU,Single,22xx,False
+Male,0,Red,65+,Lower,EU,Single,24xx,True
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,1,Green,65+,Lower,EU,Married,23xx,False
+Male,0,Red,65+,Lower,EU,Single,24xx,True
+Male,1,Green,65+,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Red,30-49,Lower,non EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Male,0,Red,<30,Lower,EU,Married,21xx,False
+Female,0,Red,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,non EU,Married,24xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Red,<30,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Female,0,Red,<30,Lower,EU,Married,24xx,False
+Male,0,Red,<30,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Female,0,Red,<30,Lower,EU,Single,*,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Male,0,Red,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,non EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Red,<30,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Female,0,Red,<30,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Red,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,non EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Red,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,non EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,non EU,Married,22xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Red,<30,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Red,<30,Lower,EU,Married,21xx,False
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Red,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,non EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,<30,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Red,<30,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,0,Red,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,22xx,False
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Red,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Female,0,Red,<30,Lower,non EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Female,0,Red,<30,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,non EU,Single,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,21xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,non EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,non EU,Married,21xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Single,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,30-49,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Single,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,non EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,non EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,non EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,non EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Single,24xx,False
+Female,0,Red,30-49,Lower,EU,Single,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,0,Red,30-49,Lower,non EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,non EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,<30,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,<30,Lower,EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,non EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,<30,Lower,non EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,non EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,non EU,Single,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,30-49,Lower,non EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Male,0,Red,30-49,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,<30,Lower,non EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,21xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,0,Red,30-49,Lower,non EU,Married,21xx,False
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,non EU,Married,24xx,False
+Male,0,Red,<30,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Female,0,Red,65+,Lower,non EU,Single,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,non EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,50-64,Lower,non EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,21xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,non EU,Married,24xx,False
+Female,0,Red,50-64,Lower,non EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,non EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Red,65+,Lower,EU,Married,22xx,True
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Male,0,Red,50-64,Lower,EU,Single,24xx,False
+Male,0,Red,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Red,50-64,Lower,EU,Single,24xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,non EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Single,22xx,False
+Male,0,Red,50-64,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Single,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,non EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,21xx,False
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,50-64,Lower,non EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Red,50-64,Lower,EU,Single,24xx,True
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,non EU,Single,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Female,0,Red,50-64,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,21xx,False
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,0,Red,65+,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,non EU,Single,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Male,0,Red,50-64,Lower,EU,Single,23xx,False
+Female,0,Red,50-64,Lower,EU,Single,21xx,False
+Female,0,Red,65+,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Female,0,Red,50-64,Lower,EU,Single,22xx,False
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Female,0,Red,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Red,50-64,Lower,EU,Single,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,non EU,Single,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,50-64,Lower,non EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,non EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,21xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,50-64,Lower,non EU,Single,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,21xx,False
+Female,0,Red,50-64,Lower,EU,Single,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Female,0,Red,50-64,Lower,EU,Single,22xx,False
+Male,0,Red,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,21xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,non EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,50-64,Lower,non EU,Single,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Red,65+,Lower,EU,Single,24xx,False
+Female,0,Red,30-49,Lower,EU,Single,21xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,50-64,Lower,non EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Female,0,Red,65+,Lower,EU,Married,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,30-49,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Female,0,Red,65+,Lower,non EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Red,50-64,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,65+,Lower,non EU,Single,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,non EU,Married,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Red,65+,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,non EU,Single,21xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Red,65+,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,65+,Lower,EU,Married,22xx,True
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,0,Red,50-64,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Female,0,Red,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,0,Red,30-49,Lower,EU,Single,23xx,False
+Female,0,Red,50-64,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Male,0,Red,30-49,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,50-64,Lower,non EU,Single,23xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,21xx,False
+Female,0,Red,50-64,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Female,0,Red,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Male,0,Red,50-64,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,non EU,Single,24xx,False
+Female,0,Red,30-49,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,non EU,Married,23xx,False
+Female,0,Red,65+,Lower,non EU,Single,24xx,False
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,21xx,False
+Female,0,Red,50-64,Lower,EU,Married,21xx,False
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Female,0,Red,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,21xx,False
+Male,0,Red,50-64,Lower,EU,Single,22xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Female,0,Red,50-64,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,30-49,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Male,0,Red,65+,Lower,EU,Single,24xx,True
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,65+,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,30-49,Lower,non EU,Married,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Male,0,Invalid vote,65+,Lower,non EU,Single,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Female,0,Red,50-64,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,non EU,Married,21xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Female,0,Invalid vote,65+,Lower,non EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Red,65+,Lower,EU,Single,24xx,True
+Female,0,Invalid vote,<30,Lower,EU,Married,22xx,False
+Male,0,Red,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,30-49,Lower,non EU,Married,21xx,False
+Female,0,Red,65+,Lower,EU,Married,21xx,False
+Female,0,Red,50-64,Lower,EU,Single,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Red,65+,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Red,65+,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Female,0,Red,65+,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Male,0,Red,65+,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,30-49,Lower,non EU,Married,22xx,False
+Male,0,Red,65+,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Male,0,Red,65+,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Female,0,Red,50-64,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,23xx,False
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Male,0,Red,65+,Lower,EU,Married,21xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,23xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Female,0,Red,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,non EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,65+,Lower,non EU,Married,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Male,0,Red,65+,Lower,EU,Single,22xx,False
+Female,0,Red,65+,Lower,EU,Single,24xx,False
+Female,0,Red,30-49,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Female,0,Red,65+,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,50-64,Lower,non EU,Single,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,65+,Lower,non EU,Married,24xx,False
+Male,0,Red,65+,Lower,EU,Single,24xx,True
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Red,65+,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Male,0,Red,65+,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Female,0,Red,65+,Lower,EU,Single,23xx,False
+Male,0,Red,65+,Lower,EU,Married,23xx,False
+Female,0,Red,65+,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Red,65+,Lower,EU,Married,21xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,0,Red,50-64,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Female,0,Red,30-49,Lower,EU,Single,21xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Red,50-64,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,21xx,False
+Female,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Red,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,non EU,Married,21xx,False
+Male,0,Red,65+,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,65+,Lower,non EU,Married,24xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,65+,Lower,non EU,Married,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Female,0,Invalid vote,65+,Lower,non EU,Married,23xx,False
+Male,0,Red,65+,Lower,EU,Single,23xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,24xx,True
+Male,0,Red,65+,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,65+,Lower,non EU,Married,23xx,False
+Female,0,Red,65+,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,65+,Lower,non EU,Single,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,24xx,False
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Male,0,Red,65+,Lower,EU,Single,21xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,24xx,True
+Male,0,Red,50-64,Lower,EU,Married,23xx,False
+Male,0,Red,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Female,0,Red,30-49,Lower,EU,Single,21xx,False
+Male,0,Invalid vote,65+,Lower,non EU,Married,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Red,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,30-49,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,65+,Lower,non EU,Married,21xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Red,50-64,Lower,EU,Single,23xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,23xx,False
+Male,0,Red,65+,Lower,EU,Single,24xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Male,0,Invalid vote,50-64,Lower,EU,Married,24xx,False
+Male,0,Red,65+,Lower,EU,Single,23xx,True
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Male,0,Red,65+,Lower,EU,Married,24xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,21xx,False
+Female,0,Invalid vote,65+,Lower,EU,Married,22xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,22xx,False
+Female,0,Red,65+,Lower,EU,Married,24xx,True
+Male,0,Invalid vote,65+,Lower,EU,Married,23xx,False
+Male,0,Red,65+,Lower,EU,Married,22xx,True
+Female,0,Red,65+,Lower,EU,Single,24xx,False
+Female,0,Red,65+,Lower,EU,Single,24xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Male,0,Red,50-64,Lower,EU,Married,22xx,True
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Female,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,50-64,Lower,EU,Single,24xx,False
+Male,0,Invalid vote,65+,Lower,EU,Married,21xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,23xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,21xx,False
+Female,0,Invalid vote,50-64,Lower,EU,Married,23xx,False
+Female,0,Invalid vote,65+,Lower,EU,Single,22xx,False
+Female,0,Red,65+,Lower,EU,Married,22xx,True
+Female,0,Invalid vote,65+,Lower,non EU,Single,22xx,False
+Female,0,Invalid vote,30-49,Lower,EU,Married,22xx,False
+Male,0,Invalid vote,65+,Lower,EU,Single,24xx,True
+Male,0,Red,30-49,Lower,EU,Married,22xx,False
